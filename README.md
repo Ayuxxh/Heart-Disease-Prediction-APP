@@ -12,7 +12,9 @@ This project predicts the likelihood of heart disease in a patient based on clin
 - Model training using:
   - Logistic Regression
   - Random Forest
-  - (Additional models optional)
+  - GaussianNB
+  - Gradient Boosting Classifier
+  - Kneighbors Classifier 
 - Streamlit-based user interface for live prediction
 - Easy-to-use input form for user data
 - Real-time classification output
@@ -57,19 +59,7 @@ You can try the app live here:
 
 ---
 
-## 📁 Project Structure
 
-```
-Heart-Disease-Prediction-APP/
-│
-├── app.py                  # Main Streamlit application
-├── model.pkl               # Trained machine learning model
-├── requirements.txt        # Project dependencies
-├── README.md               # Project documentation
-└── other_files/            # Additional helper files (if any)
-```
-
----
 
 ## 📜 License
 
