@@ -1,5 +1,5 @@
 
-# 🫀 Heart Disease Prediction using Machine Learning
+# ❤️ Heart Disease Prediction using Machine Learning
 
 This project predicts the likelihood of heart disease in a patient based on clinical parameters using machine learning models. The app is built with Python and deployed via Streamlit to provide an interactive web-based interface.
 
